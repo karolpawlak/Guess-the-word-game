@@ -1,5 +1,4 @@
-//Karol Pawlak R0010390
-//Project 1
+//Karol Pawlak
 
 #ifndef WORD_GAME_H_INCLUDED
 #define WORD_GAME_H_INCLUDED
