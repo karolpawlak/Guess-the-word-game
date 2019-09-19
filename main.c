@@ -1,5 +1,4 @@
-//Karol Pawlak R0010390
-//Project 1
+//Karol Pawlak
 
 #include <stdio.h>
 #include <stdlib.h>
